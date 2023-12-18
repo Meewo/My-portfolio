@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meewo
-- 👀 I’m a web developer
+- 👀 A web developer
 - 📫 Contact me via +2349078310142@whatsapp.com.
 or mail to emekadube@gmail.com
 <!---
